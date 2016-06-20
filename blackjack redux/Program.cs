@@ -10,9 +10,6 @@ namespace blackjack_redux
     {
         static void Main(string[] args)
         {
-            //here's some big
-            //dumb
-            //comments to test gitub with
             #region variables
             string suit;
             List<Card> unshuffledDeck = new List<Card>();
